@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them:
+What software you need to run the program:
 
 - Anaconda or Miniconda
 - Python 3.11
